@@ -20,6 +20,7 @@ This project was created for the *[Introduction to Agile and Git Workflows for W
 1. [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
     ```
     git clone <this repository HTTPS URL>
+    cd <this repository directory>
     ```
 2. [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
     ```
