@@ -61,7 +61,9 @@ This project was created for the *[Introduction to Agile and Git Workflows for W
 Pull requests are how you merge your feature branches into the `develop` working branch. It also allows your work to be reviewed by a mentor or team member before it merges.
 - [Creating a pull request (GitHub)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-Just be sure to set your "base" to `develop` and "compare" to your feature branch.
+Be sure to:
+1. Set your "base" to `develop` and "compare" to your feature branch.
+2. Include `Resolves #X` in the "Description" field, where "X" is your issue number, to link the pull request to your issue.
 
 ## Request a Review
 1. Update your issue:
