@@ -1,4 +1,4 @@
-**The Hidden Truth: Lizard People and the Microplastic Crisis**
+#The Hidden Truth: Lizard People and the Microplastic Crisis
 
 Deep beneath the bustling cities and serene countrysides of the world, a secret society thrived—a race of lizard people whose existence had been relegated to myths and conspiracy theories. But what humans didn’t know was that these enigmatic beings weren’t just hiding. They were orchestrating an elaborate plan to shape the planet’s future for their own mysterious purposes.
 
