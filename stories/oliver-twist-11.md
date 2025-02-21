@@ -14,3 +14,8 @@ OUND   NOMO
 RECOATS AND
 NOMOREHOME
 
+Oliver is an orphan.
+Oliver is hungry.
+Oliver asks for food.
+
+
